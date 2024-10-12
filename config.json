@@ -1,0 +1,12 @@
+{
+    "ssid": "your_wifi_ssid",
+    "password": "your_wifi_password",
+    "local_IP": "192.168.1.184",
+    "gateway": "192.168.1.1",
+    "subnet": "255.255.255.0",
+    "relay1Status": false,
+    "relay2Status": false,
+    "relay3Status": false,
+    "relay4Status": false
+  }
+  
